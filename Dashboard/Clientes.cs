@@ -16,5 +16,11 @@ namespace Dashboard
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            //La verdadera prueba buena 
+        }
     }
 }
